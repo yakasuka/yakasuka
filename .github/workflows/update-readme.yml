@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.8b7c5e1d7805c3a22096206b3ebb250300afa24d }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
