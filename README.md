@@ -95,6 +95,8 @@ Here are some ideas to get you started:
 
 ---
 
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true)
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -111,7 +113,6 @@ Here are some ideas to get you started:
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yakasukanakata&repo=github-readme-stats)](https://github.com/yakasukanakata/yakasukanakata)
 
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true)
 
 
 </details>
