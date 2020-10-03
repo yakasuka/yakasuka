@@ -106,9 +106,9 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="yakasukanakata's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yakasuakanakata&show_icons=true&hide_border=true" />
+  <img align="left" alt="yakasukanakata's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true&hide_border=true" />
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yakasuakanakata&show_icons=true)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true)
 
 
 </details>
