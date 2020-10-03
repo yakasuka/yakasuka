@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Lauya - aka [yakasukanakata][website] 👋
+### I'm Lauya - aka [yakasukanakata][website] 👋
 
 [![Website](https://forthebadge.com/images/badges/made-with-markdown.svg)]()
 [![Website](https://forthebadge.com/images/badges/built-with-love.svg)]()
 [![Twitter Follow](https://forthebadge.com/images/badges/ages-12.svg)]()
 
-## 我是一个学生，曾经为专辑《Diamond in the rough》的多首单曲，作词作曲
+## 我是一个学生，曾经为专辑《Diamond in the rough》的多首单曲，作词作曲.我现在正在尝试学习一些开发者工具和计算机语言，欢迎来看我的项目🌼！
 
 [![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/94259884_646848232827470_4664434616323538944_o.jpg?_nc_cat=108&_nc_sid=74df0b&_nc_ohc=iO4-XzsADrkAX8iNXfB&_nc_ht=scontent-nrt1-1.xx&oh=03c32e2900124f7dfedb781e63a4e0ca&oe=5F9F27C9) ]()
 
