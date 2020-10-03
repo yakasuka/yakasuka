@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## 我是一个学生，曾经为专辑《Diamond in the rough》的多首单曲，作词作曲
+
+[![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/94259884_646848232827470_4664434616323538944_o.jpg?_nc_cat=108&_nc_sid=74df0b&_nc_ohc=iO4-XzsADrkAX8iNXfB&_nc_ht=scontent-nrt1-1.xx&oh=03c32e2900124f7dfedb781e63a4e0ca&oe=5F9F27C9)]()
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
