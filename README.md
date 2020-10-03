@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 - [ez](https://www.youtube.com/watch?v=9i4DVnFFHrI)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/UCGCiuU5A-CVr0nYg2pbA9Hw)
+➡️ [更多视频...](https://youtube.com/UCGCiuU5A-CVr0nYg2pbA9Hw)
 
 ---
 
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 - [it was new test](https://dev.to/yakasuakanakata/it-was-new-test-41m2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://radiochatgroup-link.github.io)
+➡️ [更多Blog...](https://radiochatgroup-link.github.io)
 
 ---
 
