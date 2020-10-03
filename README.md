@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="yuniko Spotify Playing" width="350" />](https://open.spotify.com/track/4LSPhOVHew694KG2IAA6Ap?si=v3BSGbjDQ-WfrpC_NsB3BA)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Yuniko Spotify Playing" width="350" />](https://open.spotify.com/track/4LSPhOVHew694KG2IAA6Ap)
 
 <iframe src="https://open.spotify.com/embed/album/6zPGNuCikxTQLI8ZQuHNsQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
