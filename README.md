@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Lauya - aka [yakasukanakata][website] 👋
 
+[![Website](https://forthebadge.com/images/badges/made-with-markdown.svg)]()
 [![Website](https://forthebadge.com/images/badges/built-with-love.svg)]()
 [![Twitter Follow](https://forthebadge.com/images/badges/ages-12.svg)]()
-[![Website](https://forthebadge.com/images/badges/made-with-markdown.svg)]()
 
 ## 我是一个学生，曾经为专辑《Diamond in the rough》的多首单曲，作词作曲
 
