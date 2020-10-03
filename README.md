@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 我是一个学生，曾经为专辑《Diamond in the rough》的多首单曲，作词作曲.我现在正在尝试学习一些开发者工具和计算机语言，欢迎来看我的项目🌼！
 
-[![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/94259884_646848232827470_4664434616323538944_o.jpg?_nc_cat=108&_nc_sid=74df0b&_nc_ohc=iO4-XzsADrkAX8iNXfB&_nc_ht=scontent-nrt1-1.xx&oh=03c32e2900124f7dfedb781e63a4e0ca&oe=5F9F27C9) ]()
+[![](https://raw.githubusercontent.com/RadioChatGroup-Link/Icon/master/github%20img/dir.jpg) ](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ?si=9amsSnVKRgK6kXFv8ZYz3w)
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 最后一部的视频
 
 <!-- YOUTUBE:START -->
 - [太好啦](https://www.youtube.com/watch?v=fQl7ADS7cAk)
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 最后一次发布Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [it was new test](https://dev.to/yakasuakanakata/it-was-new-test-41m2)
