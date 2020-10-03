@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 我是一个学生，曾经为专辑《Diamond in the rough》的多首单曲，作词作曲
 
-[![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/94259884_646848232827470_4664434616323538944_o.jpg?_nc_cat=108&_nc_sid=74df0b&_nc_ohc=iO4-XzsADrkAX8iNXfB&_nc_ht=scontent-nrt1-1.xx&oh=03c32e2900124f7dfedb781e63a4e0ca&oe=5F9F27C9 width="520") ]()
+[![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/94259884_646848232827470_4664434616323538944_o.jpg?_nc_cat=108&_nc_sid=74df0b&_nc_ohc=iO4-XzsADrkAX8iNXfB&_nc_ht=scontent-nrt1-1.xx&oh=03c32e2900124f7dfedb781e63a4e0ca&oe=5F9F27C9) ]()
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
