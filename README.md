@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [it was new test](https://dev.to/yakasuakanakata/it-was-new-test-41m2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://radiochatgroup-link.github.io)
