@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Yuniko Spotify Playing" width="350" />](https://open.spotify.com/user/4p625yvreygxzpy035o7wsvo2)
+[<img src="https://raw.githubusercontent.com/RadioChatGroup-Link/Icon/master/github%20img/20201004064129.png" alt="Yuniko Spotify Playing" width="350" />](https://open.spotify.com/user/4p625yvreygxzpy035o7wsvo2)
 
 ### 和我联系:
 
