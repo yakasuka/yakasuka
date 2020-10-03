@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 ## 我是一个学生，曾经为专辑《Diamond in the rough》的多首单曲，作词作曲
 
-
-<a href="https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/94259884_646848232827470_4664434616323538944_o.jpg?_nc_cat=108&_nc_sid=74df0b&_nc_ohc=iO4-XzsADrkAX8iNXfB&_nc_ht=scontent-nrt1-1.xx&oh=03c32e2900124f7dfedb781e63a4e0ca&oe=5F9F27C9" alt="红 - 告五人" width="520"/></a>
+[![](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/94259884_646848232827470_4664434616323538944_o.jpg?_nc_cat=108&_nc_sid=74df0b&_nc_ohc=iO4-XzsADrkAX8iNXfB&_nc_ht=scontent-nrt1-1.xx&oh=03c32e2900124f7dfedb781e63a4e0ca&oe=5F9F27C9 width="520") ]()
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -33,9 +32,11 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="yuniko Spotify Playing" width="350" />](https://open.spotify.com/track/4LSPhOVHew694KG2IAA6Ap?si=v3BSGbjDQ-WfrpC_NsB3BA)
 
-### Connect with me:
+<iframe src="https://open.spotify.com/embed/album/6zPGNuCikxTQLI8ZQuHNsQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+### 和我联系:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
