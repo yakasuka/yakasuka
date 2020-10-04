@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: 最近的GitHub活动</summary>
   
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/yakasukanakata/yakasukanakata/issues/1) in [yakasukanakata/yakasukanakata](https://github.com/yakasukanakata/yakasukanakata)
