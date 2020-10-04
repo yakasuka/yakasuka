@@ -82,8 +82,6 @@ Here are some ideas to get you started:
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=RadioChatGroup-Link.github.io)](https://github.com/RadioChatGroup-Link/RadioChatGroup-Link.github.io)
 
 </details>
-<br />
-<br />
 
 ---
 
