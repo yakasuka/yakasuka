@@ -111,6 +111,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+---
 
  <details>
   <img align="left" alt="yakasukanakata's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true&hide_border=true" />
