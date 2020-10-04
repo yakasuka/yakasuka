@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 我希望与其他内容创作者合作
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -25,11 +25,14 @@ Here are some ideas to get you started:
 
 [![](https://raw.githubusercontent.com/RadioChatGroup-Link/Icon/master/github%20img/dir.jpg) ](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ?si=9amsSnVKRgK6kXFv8ZYz3w)
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 我当前在RadioChatGroup工作
+- 🌱 目前正在学习
+- 👯 我希望与其他内容创作者合作
+- 🤔 我正在寻求帮助
+- 💬 你可以向我询问与平面设计\艺术指导\网络技术和一些其他方面的问题
+- 📫 你可以使用telegram\e-mail\twitter\githubIssues的联系到我
+- 😄 2020年的目标已经完成
+- ⚡ 有趣的是我会弹钢琴
 
 ### Spotify Playing 🎧
 
