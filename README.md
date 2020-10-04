@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/RadioChatGroup-Link/Icon/master/github%20img/dir.jpg) ](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ?si=9amsSnVKRgK6kXFv8ZYz3w)
 -  ![yakasukanakata's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakasukanakata&layout=compact)](https://github.com/RadioChatGroup-Link/subscribe)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=subscribe)](https://github.com/RadioChatGroup-Link/subscribe)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=RadioChatGroup-Link.github.io)](https://github.com/RadioChatGroup-Link/RadioChatGroup-Link.github.io)
 
 - 🔭 我当前在RadioChatGroup工作
@@ -101,16 +100,6 @@ Here are some ideas to get you started:
 ➡️ [更多Blog...](https://radiochatgroup-link.github.io)
 
 ---
-  <summary>:zap: GitHub Stats</summary>
-
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=pages)](https://github.com/RadioChatGroup-Link/pages)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=Netch)](https://github.com/RadioChatGroup-Link/Netch)
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yakasukanakata)](https://github.com/yakasukanakata/yakasukanakata)
-
-
-  
-
 
 <details>
   <summary>:zap: 最近的GitHub活动</summary>
@@ -125,9 +114,11 @@ Here are some ideas to get you started:
   <img align="left" alt="yakasukanakata's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true&hide_border=true" />
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true&theme=tokyonight)
- 
-
-
+    <summary>:zap: GitHub Stats</summary>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=pages)](https://github.com/RadioChatGroup-Link/pages)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=Netch)](https://github.com/RadioChatGroup-Link/Netch)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yakasukanakata)](https://github.com/yakasukanakata/yakasukanakata)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=subscribe)](https://github.com/RadioChatGroup-Link/subscribe)
 </details>
 
 [website]: -
