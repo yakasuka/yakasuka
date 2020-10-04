@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 ---
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=subscribe)](https://github.com/RadioChatGroup-Link/subscribe)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakasukanakata&layout=compact)](https://github.com/RadioChatGroup-Link/subscribe)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=subscribe)](https://github.com/RadioChatGroup-Link/subscribe)
+  
 
 
 <details>
