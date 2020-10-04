@@ -104,7 +104,7 @@ Here are some ideas to get you started:
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=subscribe)](https://github.com/RadioChatGroup-Link/subscribe)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=RadioChatGroup-Link.github.io)](https://github.com/RadioChatGroup-Link/RadioChatGroup-Link.github.io)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=pages)](https://github.com/RadioChatGroup-Link/pages)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadioChatGroup-Link&layout=compact)](https://github.com/RadioChatGroup-Link)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakasukanakata&layout=compact)](https://github.com/RadioChatGroup-Link)
 
 
   
