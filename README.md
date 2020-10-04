@@ -99,16 +99,23 @@ Here are some ideas to get you started:
 ---
   <summary>:zap: GitHub Stats</summary>
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true)
+  ![yakasukanakata's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakasukanakata&layout=compact)](https://github.com/RadioChatGroup-Link/subscribe)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=subscribe)](https://github.com/RadioChatGroup-Link/subscribe)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=RadioChatGroup-Link.github.io)](https://github.com/RadioChatGroup-Link/RadioChatGroup-Link.github.io)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=pages)](https://github.com/RadioChatGroup-Link/pages)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=Netch)](https://github.com/RadioChatGroup-Link/Netch)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yakasukanakata)](https://github.com/yakasukanakata/yakasukanakata)
+
+
   
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: 最近的GitHub活动</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/yakasukanakata/yakasukanakata/issues/1) in [yakasukanakata/yakasukanakata](https://github.com/yakasukanakata/yakasukanakata)
 <!--END_SECTION:activity-->
 
 ---
@@ -118,7 +125,6 @@ Here are some ideas to get you started:
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true&theme=tokyonight)
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
