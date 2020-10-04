@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## 我是一个学生，曾经为专辑《Diamond in the rough》的多首单曲，作词作曲.我现在正在尝试学习一些开发者工具和计算机语言，欢迎来看我的项目🌼！
 
 [![](https://raw.githubusercontent.com/RadioChatGroup-Link/Icon/master/github%20img/dir.jpg) ](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ?si=9amsSnVKRgK6kXFv8ZYz3w)
-  [![yakasukanakata's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true)
+  ![yakasukanakata's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakasukanakata&layout=compact)](https://github.com/RadioChatGroup-Link/subscribe)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=RadioChatGroup-Link.github.io)](https://github.com/RadioChatGroup-Link/RadioChatGroup-Link.github.io)
 
