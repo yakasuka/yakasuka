@@ -76,15 +76,12 @@ Here are some ideas to get you started:
 ---
 
 <details>
-
-  ![yakasukanakata's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true)
-  <br />
+  
+  [![yakasukanakata's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakasukanakata&layout=compact)](https://github.com/RadioChatGroup-Link/subscribe)
-  <br />
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=RadioChatGroup-Link.github.io)](https://github.com/RadioChatGroup-Link/RadioChatGroup-Link.github.io)
 
 </details>
-
 <br />
 <br />
 
