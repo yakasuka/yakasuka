@@ -112,12 +112,9 @@ Here are some ideas to get you started:
  <details>
   <img align="left" alt="yakasukanakata's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true&hide_border=true" />
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true&theme=radical)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true&theme=tokyonight)
  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RadioChatGroup-Link&repo=subscribe)](https://github.com/RadioChatGroup-Link/subscribe)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakasukanakata&layout=compact)](https://github.com/RadioChatGroup-Link/subscribe)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
