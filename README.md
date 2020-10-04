@@ -94,6 +94,7 @@ Here are some ideas to get you started:
 ➡️ [更多Blog...](https://radiochatgroup-link.github.io)
 
 ---
+  <summary>:zap: GitHub Stats</summary>
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakasukanakata&layout=compact)](https://github.com/RadioChatGroup-Link/subscribe)
@@ -108,24 +109,23 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 
-  <summary>:zap: GitHub Stats</summary>
  <details>
   <img align="left" alt="yakasukanakata's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true&hide_border=true" />
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yakasukanakata&show_icons=true&theme=tokyonight)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: -
+[course]: -
+[twitter]: -
+[youtube]: -
+[instagram]: -
+[linkedin]: https://linkedin.com/in/-
+[webdevplaylist]: https://www.youtube.com/playlist?list=P-
+[jsplaylist]: https://www.youtube.com/playlist?list=P-
+[cssplaylist]: https://www.youtube.com/playlist?list=PL-
+[reactplaylist]: https://www.youtube.com/playlist?list=P-
