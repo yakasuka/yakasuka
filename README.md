@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Lauya - aka [yakasukanakata][website] 👋
+### I'm Lauya - aka [yakasuka][website] 👋
 
 [![Website](https://forthebadge.com/images/badges/made-with-markdown.svg)]()
 [![Website](https://forthebadge.com/images/badges/built-with-love.svg)]()
