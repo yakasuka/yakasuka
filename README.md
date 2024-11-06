@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
-![Anurag 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=FranzKafkaYu&theme=cobalt2&show_icons=true)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FranzKafkaYu&show_icons=true&theme=tokyonight)
+![Anurag 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=yakasuka&theme=cobalt2&show_icons=true)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yakasuka&show_icons=true&theme=tokyonight)
 <p 对齐='左'>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKafkaYu&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakasuka&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs" />
 </p>
 ### I'm Lauya - aka [yakasuka][website] 👋
 
