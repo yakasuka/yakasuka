@@ -33,21 +33,22 @@ Building across web apps and cloud computing, with hands-on interests in Node.js
 
 ### ACTIVITY / 开发节奏
 
-<div align="center">
-
-<img height="190" src="https://ghstats.dev/api/card?username=yakasuka&amp;theme=midnight&amp;hide_border=true" alt="GitHub activity statistics" />
-
-<img width="92%" src="https://ghstats.dev/api/sparkline?username=yakasuka&amp;days=90&amp;width=900&amp;height=180&amp;hide_border=true" alt="Contribution activity graph for the last 90 days" />
-
-</div>
+<table>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img width="100%" src="https://ghstats.dev/api/card?username=yakasuka&amp;theme=midnight&amp;hide_border=true&amp;size=compact&amp;compact_count=4" alt="GitHub activity statistics" />
+    </td>
+    <td width="60%" align="center" valign="middle">
+      <img width="100%" src="https://ghstats.dev/api/sparkline?username=yakasuka&amp;days=90&amp;width=720&amp;height=240&amp;hide_border=true" alt="Contribution activity graph for the last 90 days" />
+    </td>
+  </tr>
+</table>
 
 ### CONTRIBUTION MAP / 贡献图
 
-<div align="center">
-
-<img width="92%" src="https://raw.githubusercontent.com/yakasuka/yakasuka/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" />
-
-</div>
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/409ba5/yakasuka" alt="GitHub contribution calendar" />
+</p>
 
 <div align="center">
 
