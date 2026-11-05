@@ -1,48 +1,53 @@
-# 👋 Hello, I'm @yakasuka
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=EE1010&center=true&vCenter=true&width=500&lines=Building+tools+for+web;Python+Enthusiast;Automation+Expert" alt="Typing SVG" />
-</p>
+# YAKASUKA
 
----
+### Independent developer · China
 
-### 👨‍💻 关于我
-- 🔭 **当前维护:** [Bili-Live-Toolkit](https://github.com/yakasuka/Bili-Live-Toolkit) - 哔哩哔哩直播脚本工具集
-- 🐍 **技术栈:** 熟练使用 **Python** 进行自动化工具开发、网页爬虫
-- ⚡ **兴趣:** 热衷于探索各种 API，让重复的工作自动化
-- 🎧 **状态:** 音乐是我的开发燃料
+**把重复的事自动化，把想法做成工具。**
+
+[GitHub](https://github.com/yakasuka) · [原创仓库 / Original repositories](https://github.com/yakasuka?tab=repositories&type=source)
+
+</div>
 
 ---
 
-### 🎵 正在播放 (NetEase Cloud Music)
-<p align="center">
-  <img src="https://music-stats.vercel.app/api/card?id=278929897&theme=radical&cards=active" alt="yakasuka's music" />
+### PROFILE / 个人简介
+
+关注 Python、自动化与 API 集成，喜欢把日常问题拆解成简单、可靠、可复用的工具。
+
+I build small, practical tools around Python, automation, and APIs—turning repetitive tasks into reusable workflows.
+
+### TOOLKIT / 技术方向
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Automation-1F2937?style=flat-square&logo=githubactions&logoColor=2088FF" alt="Automation" />
+  <img src="https://img.shields.io/badge/API_Integration-1F2937?style=flat-square" alt="API integration" />
+  <img src="https://img.shields.io/badge/Web_Tools-1F2937?style=flat-square&logo=googlechrome&logoColor=4285F4" alt="Web tools" />
 </p>
 
----
+### ACTIVITY / 开发节奏
 
-### 📊 GitHub 统计数据
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yakasuka&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakasuka&layout=compact&theme=radical&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yakasuka&theme=radical&hide_border=true" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yakasuka&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="GitHub activity statistics" />
+<img height="165" src="https://streak-stats.demolab.com?user=yakasuka&hide_border=true&theme=transparent" alt="Contribution streak" />
 
----
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=yakasuka&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
 
-### 🛠️ 常用工具
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+</div>
 
----
+### CONTRIBUTION MAP / 贡献图
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=yakasuka&label=Profile%20Views&color=red&style=flat-square" />
-</p>
+<div align="center">
+
+<img width="92%" src="https://raw.githubusercontent.com/yakasuka/yakasuka/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" />
+
+</div>
+
+<div align="center">
+
+<sub>Build useful things. Keep it simple.</sub>
+
+</div>
