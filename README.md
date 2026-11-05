@@ -35,11 +35,11 @@ Building across web apps and cloud computing, with hands-on interests in Node.js
 
 <table>
   <tr>
-    <td width="40%" align="center" valign="middle">
-      <img width="100%" src="https://ghstats.dev/api/card?username=yakasuka&amp;theme=midnight&amp;hide_border=true&amp;size=compact&amp;compact_count=4" alt="GitHub activity statistics" />
+    <td width="50%" align="center" valign="middle">
+      <img width="100%" src="./profile-stats/overview.svg" alt="GitHub activity statistics" />
     </td>
-    <td width="60%" align="center" valign="middle">
-      <img width="100%" src="https://ghstats.dev/api/sparkline?username=yakasuka&amp;days=90&amp;width=720&amp;height=240&amp;hide_border=true" alt="Contribution activity graph for the last 90 days" />
+    <td width="50%" align="center" valign="middle">
+      <img width="100%" src="./profile-stats/languages.svg" alt="GitHub language statistics" />
     </td>
   </tr>
 </table>
@@ -49,6 +49,8 @@ Building across web apps and cloud computing, with hands-on interests in Node.js
 <p align="center">
   <img width="100%" src="https://ghchart.rshah.org/409ba5/yakasuka" alt="GitHub contribution calendar" />
 </p>
+
+<sub>Stats generated daily with <a href="https://github.com/rahul-jha98/github-stats-transparent">github-stats-transparent</a>.</sub>
 
 <div align="center">
 

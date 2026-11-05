@@ -1,0 +1,67 @@
+name: Generate GitHub stats cards
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Check out stats generator
+        uses: actions/checkout@v4
+        with:
+          repository: rahul-jha98/github-stats-transparent
+          ref: main
+          path: .github-stats-transparent
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install generator dependencies
+        run: python -m pip install -r .github-stats-transparent/requirements.txt
+
+      - name: Check stats access token
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          if [ -z "$ACCESS_TOKEN" ]; then
+            echo "::error::Add an ACCESS_TOKEN repository secret before running this workflow."
+            exit 1
+          fi
+
+      - name: Generate cards
+        working-directory: .github-stats-transparent
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXCLUDED: ${{ secrets.EXCLUDED }}
+          EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
+          COUNT_STATS_FROM_FORKS: ${{ secrets.COUNT_STATS_FROM_FORKS }}
+        run: python generate_images.py
+
+      - name: Copy cards into profile repository
+        run: |
+          mkdir -p profile-stats
+          cp .github-stats-transparent/generated/overview.svg profile-stats/overview.svg
+          cp .github-stats-transparent/generated/languages.svg profile-stats/languages.svg
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-stats/overview.svg profile-stats/languages.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Update GitHub stats cards"
+          git push
