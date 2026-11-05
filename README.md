@@ -35,10 +35,9 @@ Building across web apps and cloud computing, with hands-on interests in Node.js
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yakasuka&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=transparent&amp;include_all_commits=true" alt="GitHub activity statistics" />
-<img height="165" src="https://streak-stats.demolab.com?user=yakasuka&amp;hide_border=true&amp;theme=transparent" alt="Contribution streak" />
+<img height="190" src="https://ghstats.dev/api/card?username=yakasuka&amp;theme=midnight&amp;hide_border=true" alt="GitHub activity statistics" />
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=yakasuka&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="Contribution activity graph" />
+<img width="92%" src="https://ghstats.dev/api/sparkline?username=yakasuka&amp;days=90&amp;width=900&amp;height=180&amp;hide_border=true" alt="Contribution activity graph for the last 90 days" />
 
 </div>
 
